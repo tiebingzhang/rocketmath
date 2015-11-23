@@ -1,4 +1,7 @@
 ##Rocket Math Generator
+###Try it
+http://dev1.advistatech.com/rocketmath
+
 ###Purpose
 This little web app lets you generate a simple 1-9 time table exercise sheet for 2nd and 3rd grade students to pratice.
 
