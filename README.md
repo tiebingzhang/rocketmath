@@ -1,14 +1,14 @@
-##Rocket Math Generator
-###Try it
+## Rocket Math Generator
+### Try it
 http://dev1.advistatech.com/rocketmath
 
-###Purpose
+### Purpose
 This little web app lets you generate a simple 1-9 time table exercise sheet for 2nd and 3rd grade students to pratice.
 
-###Install
+### Install
 Simply copy all files to your web server directory, e.g. /var/www/rocketmath, and then point your brower to it.
 
-###Dependency
+### Dependency
 This code uses FPDF, and it is already included in the source code. So no other external PHP dependency other than standard PHP install and of course a web server.
 
-##Enjoy
+## Enjoy
